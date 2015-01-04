@@ -111,8 +111,15 @@ function display_hint()
 				  <p>Your browser does not support iframes.</p>
 				</iframe-->
 				<div id="code">
+				<!--pre-->
 				<pre class='brush: cpp' >
-				<?php echo $_SESSION['source_code'] ?>
+				<?php 
+				$str=$_SESSION['source_code'];
+				$str = str_replace( "<", "&lt;", $str);
+				$str = str_replace( ">", "&gt;", $str);
+				echo $str; 
+				//echo $_SESSION['source_code']; 
+				?>
 				  </pre>
 
 				  <script src="syntaxhighlighter_3.0.83/scripts/shCore.js"></script>
