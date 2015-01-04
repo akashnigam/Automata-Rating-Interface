@@ -1,0 +1,30 @@
+<log>
+<time>2015-01-03 11:06:29</time>
+<msg>array("human_grades"=>"3","algorithm"=>"gggg","complexity"=>"O(N<sup>2</sup>)","comment"=>"lhj","time_spent"=>"0h 0m 15s","viewed_hint"=>"1",)</msg>
+</log>
+
+<log>
+<time>2015-01-03 11:08:46</time>
+<msg>array("human_grades"=>"3","algorithm"=>"gggg","complexity"=>"O(N<sup>2</sup>)","comment"=>"lhj","time_spent"=>"0h 0m 15s","viewed_hint"=>"1",)</msg>
+</log>
+
+<log>
+<time>2015-01-03 11:16:42</time>
+<msg>array("human_grades"=>"3","algorithm"=>"gggg","complexity"=>"O(N<sup>2</sup>)","comment"=>"lhj","time_spent"=>"0h 0m 15s","viewed_hint"=>"1",)</msg>
+</log>
+
+<log>
+<time>2015-01-03 11:23:00</time>
+<msg>array("human_grades"=>"3","algorithm"=>"gggg","complexity"=>"O(N<sup>2</sup>)","comment"=>"lhj","time_spent"=>"0h 0m 15s","viewed_hint"=>"1",)</msg>
+</log>
+
+<log>
+<time>2015-01-03 11:23:39</time>
+<msg>array("human_grades"=>"6","algorithm"=>"hgjhg","complexity"=>"O(N logN)","comment"=>"jhgjhgjgjhgjhgjh","time_spent"=>"0h 0m 31s","viewed_hint"=>"1",)</msg>
+</log>
+
+<log>
+<time>2015-01-03 12:08:28</time>
+<msg>array("human_grades"=>"4","algorithm"=>"asdfa","complexity"=>"O(N)","comment"=>"ssdfsd","time_spent"=>"0h 44m 42s","viewed_hint"=>"1",)</msg>
+</log>
+
